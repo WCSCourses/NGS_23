@@ -13,7 +13,7 @@ The final course timetable will appear here.
 
 ## Instructors
 
-- Jacqueline Keane
+- [Jacqueline Keane](https://www.sanger.ac.uk/person/keane-jacqueline/)
 - [Kim Judge](https://www.sanger.ac.uk/person/judge-kim/)
 - [Michael Quail](https://www.sanger.ac.uk/person/quail-michael-andrew/)
 
