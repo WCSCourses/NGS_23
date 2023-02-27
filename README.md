@@ -19,4 +19,5 @@ The final course timetable will appear here.
 
 ## Computational Practicals
 
-Links to computational practical documents and slides will appear here.
+- [Unix for Bioinformatics Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/Unix_for_Bioinformatics/linux_slides.pdf)
+- [Unix for Bioinformatics Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Unix_for_Bioinformatics/linux_practical.pdf)
