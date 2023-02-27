@@ -21,3 +21,6 @@ The final course timetable will appear here.
 
 - [Unix for Bioinformatics Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/Unix_for_Bioinformatics/linux_slides.pdf)
 - [Unix for Bioinformatics Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Unix_for_Bioinformatics/linux_practical.pdf)
+- [NGS Data Formats Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/NGS_Data_Formats_and_QC/data_formats_slides.pdf)
+- [QC Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/NGS_Data_Formats_and_QC/qc_slides.pdf)
+- [NGS Data Formats & QC Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/NGS_Data_Formats_and_QC/data_formats_practical.pdf)
