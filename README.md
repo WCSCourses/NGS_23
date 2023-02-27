@@ -15,7 +15,7 @@ The final course timetable will appear here.
 
 - Jacqueline Keane
 - Kim Judge
-- Michael Quail
+- [Michael Quail](https://www.sanger.ac.uk/person/quail-michael-andrew/)
 
 ## Computational Practicals
 
