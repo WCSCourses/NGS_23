@@ -14,7 +14,7 @@ The final course timetable will appear here.
 ## Instructors
 
 - Jacqueline Keane
-- Kim Judge
+- [Kim Judge](https://www.sanger.ac.uk/person/judge-kim/)
 - [Michael Quail](https://www.sanger.ac.uk/person/quail-michael-andrew/)
 
 ## Computational Practicals
