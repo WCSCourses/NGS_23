@@ -31,7 +31,7 @@ The final course timetable will appear here.
 - Variant Calling Slides
 - [Variant Calling Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Variant_Calling/variant_calling_practical.pdf)
 - Long Read Analysis Slides
-- Long Read Analysis Practical
+- [Long Read Analysis Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Long_Read_Analysis/WCS%20Intro%20to%20NGS%20Oxford%20Nanopore%20Analysis%20session.pdf)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
