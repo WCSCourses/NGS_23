@@ -26,12 +26,10 @@ The final course timetable will appear here.
 - [NGS Data Formats & QC Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/NGS_Data_Formats_and_QC/data_formats_practical.pdf)
 - [Read Alignment Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/Read_Alignment/NGS-2023-Alignment.pdf)
 - [Read Alignment Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Read_Alignment/read_alignment_practical.pdf)
-- Run QC Slides
-- Run QC Practical
 - [Variant Calling Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/Variant_Calling/variant-calling-talk.pdf)
 - [Variant Calling Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Variant_Calling/variant_calling_practical.pdf)
-- Long Read Analysis Slides
-- [Long Read Analysis Practical](https://github.com/WCSCourses/NGS23/blob/main/Modules/Long_Read_Analysis/WCS%20Intro%20to%20NGS%20Oxford%20Nanopore%20Analysis%20session.pdf)
+- [Long Read Analysis Slides](https://github.com/WCSCourses/NGS23/blob/main/Modules/Long_Read_Analysis/Oxford_Nanopore_2023_plus_analysis.pdf)
+- [Long Read Analysis Practical as PDF](https://github.com/WCSCourses/NGS23/blob/main/Modules/Long_Read_Analysis/WCS%20Intro%20to%20NGS%20Oxford%20Nanopore%20Analysis%20session.pdf)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
